@@ -31,7 +31,7 @@ DIRECT governance is guided by the following principles:
 DIRECT governance has two components:
 
 - **Project Co-Leads**, who provide strategic stewardship and overall coherence
-- **Community-led Working Groups**, where most activity takes place
+- **Community-led Working Groups**, where most activity takes place and which are led by working group leads
 
 The model is deliberately simple. Responsibility sits primarily with those doing the work, with the Co-Leads ensuring alignment, sustainability, and continuity.
 
@@ -85,7 +85,21 @@ Working groups are expected to:
 
 They are trusted to organise their work in ways that suit their aims.
 
-## Current Working Groups
+## 5. Working Group Leads
+
+Working groups may have one or more leads. 
+
+## Responsibilities 
+
+Working groups leads:
+
+- Organise meetings and agendas
+- Help coordinate activity
+- Support delivery of outputs
+
+Leads may rotate or leadership can be shared. There is no fixed minimum term.
+
+## 6. Current Working Groups
 
 ### Framework Working Group
 
@@ -113,17 +127,7 @@ Supports outreach, engagement, and adoption of DIRECT by:
 - Supporting implementation and uptake
 - Running events and workshops
 
-## Working Group Leads
-
-Working groups may have one or more leads. Leads typically:
-
-- Organise meetings and agendas
-- Help coordinate activity
-- Support delivery of outputs
-
-Leads may rotate or be shared. There is no fixed minimum term.
-
-## 5. Decision-Making
+## 7. Decision-Making
 
 Decisions are made as close as possible to the work.
 
@@ -139,7 +143,7 @@ DIRECT favours:
 
 If disagreement arises that cannot be resolved within a group, it may be escalated to the Co-Leads.
 
-## 6. Transparency and Communication
+## 8. Transparency and Communication
 
 To maintain trust and openness:
 
@@ -164,7 +168,7 @@ To maintain trust and openness:
 - Email: [direct-framework@googlegroups.com](mailto:direct-framework@googlegroups.com)
 - Slack: `#direct-framework` in the RSE Community Slack (ukrse.slack.com)
 
-## 7. Review and Evolution
+## 9. Review and Evolution
 
 This governance model is intentionally lightweight and adaptive.
 
