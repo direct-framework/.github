@@ -31,7 +31,7 @@ DIRECT governance is guided by the following principles:
 DIRECT governance has two components:
 
 - **Project Co-Leads**, who provide strategic stewardship and overall coherence
-- **Community-led Working Groups**, where most activity takes place and which are led by working group leads
+- **Community-led Working Groups**, where most activity takes place and which are led by Working Group Leads
 
 The model is deliberately simple. Responsibility sits primarily with those doing the work, with the Co-Leads ensuring alignment, sustainability, and continuity.
 
