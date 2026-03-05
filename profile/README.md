@@ -19,6 +19,87 @@ See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 See our [governance model and process](../GOVERNANCE.md), [current members of the governance board](../GOVERNANCE.md#current-governance-board-members) and [meeting schedule](../GOVERNANCE.md#meetings).
 
+## Documents
+
+This page tracks the public documents that have been used for community discussions and development.
+
+### Current working documents
+
+* [Internal Google drive folder](https://drive.google.com/drive/u/0/folders/15pzFo9Vmf1C-PsBfiPyC3ZQBCGB92ssC) with various documents, presentations, etc.
+
+### Documents no longer updated
+
+- Collaborations Workshop 23 Hack Day
+   * [CW23 Hack day report](https://docs.google.com/document/d/1ApTf8RcB86-RXrCJfCUMWDt6kRWSM0wVzBsPMCyhC8g)
+   * [CW23 Hack day presentation](https://docs.google.com/presentation/d/15RBtaJ4W5bUWV7aHrwV0wX7op7hewl3B-w7vj6wieHg/edit#slide=id.g1e2424db41c_2_0)
+   * [CW23 working HackMD document](https://hackmd.io/LwyTCm2LRwahi7yP8M7Brg?both)
+
+## Contributors
+
+Current project team (in alphabetical order by first name):
+
+- Adrian D'Alessandro
+- Aleksandra Nenadic
+- Aman Goel
+- Becky Osselton
+- Connor Aird
+- Dave Horsfall
+- Emma Hogan
+- Gabriel Hanganu
+- Matt Craddock
+- Phil Reed
+- Sam Bland
+- Tamora James
+
+Former project team members (in alphabetical order by first name):
+
+- Eli Chadwick
+- Hannah Williams
+- Diego Alonso Álvarez
+- Matthew Bluteau
+
+CW25 hack day team working on the project (in alphabetical order by first name):
+
+- Adrian D’Alessandro
+- Aleksandra Nenadic
+- Andrew Gait
+- Bryn Ubald
+- Connor Aird
+- Tamora James
+- Patricia Loto
+- Phil Reed
+- Ryan Smith
+
+CW25 workshop 2.4 saw additional contributions to the framework (in alphabetical order by first name):
+
+- Camille Santistevan
+- Ella Kaye
+- Jonathan Cooper
+- Samantha Wittke
+- Sarah Gibson 
+- Toby Hodges 
+
+Original CW23 hack day team that started the project (in alphabetical order by first name):
+
+- Aleksandra Nenadic
+- Aman Goel
+- Dave Horsfall
+- Diego Alonso Álvarez
+- Eli Chadwick
+- Hannah Williams
+- Iain Barrass
+- Lieke de Boer
+- Martin O’Reilly
+- Matthew Bluteau
+- Nadine Spychala
+- Paul K Korir
+- Sean Marshallsay
+
+## Contributing
+
+Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
+You can also open a new issue if your idea is not yet mentioned anywhere else.
+
 ## Contact
 
 If you'd like to get in touch with the project team - email us at direct-framework@googlegroups.com.
