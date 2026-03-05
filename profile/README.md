@@ -21,7 +21,7 @@ See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## History
 
-This repository was originally created from the work that happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.
+DIRECT project and its repositories were created from the work that originally happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.
 
 The idea was to construct a resource on technical skills that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individual skill profiles as "competency wheels".
 
