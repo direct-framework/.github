@@ -17,7 +17,7 @@ See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Governance
 
-See our [governance model and process](../GOVERNANCE.md), [urrent members](../GOVERNANCE.md#meetings) of the governance board and [meeting schedule](../GOVERNANCE.md#meetings).
+See our [governance model and process](../GOVERNANCE.md), [current members of the governance board](../GOVERNANCE.md#current-governance-board-members) and [meeting schedule](../GOVERNANCE.md#meetings).
 
 ## Contact
 
