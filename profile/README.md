@@ -105,3 +105,8 @@ You can also open a new issue if your idea is not yet mentioned anywhere else.
 If you'd like to get in touch with the project team - email us at direct-framework@googlegroups.com.
 
 We also use #direct-framework channel under the RSE Community Slack (ukrse.slack.com).
+
+## Acknowledgements
+
+The initial version of this project was created during the Software Sustainability Institute Collaborations Workshop
+2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE and dRTP community members during RSECon23, RSECon24 and CW25 and various other community engagement events and workshops.
