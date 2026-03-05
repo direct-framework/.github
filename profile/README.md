@@ -1,18 +1,26 @@
 # DIgital REsearch CompeTencies (DIRECT) Project
 
-This project aims to define a skills and competencies framework to help classify and describe technical and non-technical skills used in the different digital Research Technical Professional (dRTP) roles. The project is divided into two sub-projects:
+This project aims to define a skills and competencies framework to help classify and describe technical and non-technical skills used in the different digital Research Technical Professional (dRTP) roles. 
 
-## 1. DIRECT Framework
+The project is divided into two technical sub-projects with distinct set of activities:
 
-The definition a skills and competencies framework in JSON format.
+- **DIRECT skills and competencies framework**
+   - [Browse skills and competencies](https://directframework.com/competencies)
+   - [GitHub repository](https://github.com/direct-framework/digital-research-competencies-framework)
+- **DIRECT Web Application** - Django webapp to enable practical use of the framework, browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc..
+   - [Website](https://directframework.com)
+   - [GitHub repository](https://github.com/direct-framework/direct-webapp)
+ 
+## Code of Conduct
 
-- **Skills and Competencies:** https://directframework.com/competencies
-- **GitHub Repository:** https://github.com/direct-framework/digital-research-competencies-framework
-   
-## 2. DIRECT Web Application
+See our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles.
+## Governance
 
-- **Website:** https://directframework.com
-- **GitHub Repository:** https://github.com/direct-framework/direct-webapp
-   
+See our [governance model](./GOVERNANCE.md) and current memners of the governance board.
+
+## Contact
+
+If you'd like to get in touch with the project team - email us at direct-framework@googlegroups.com.
+
+We also use #direct-framework channel under the RSE Community Slack (ukrse.slack.com).
