@@ -15,7 +15,7 @@ The governance model is intentionally minimal. It provides enough structure to s
 
 This model is expected to evolve over time in response to experience, feedback, and growth.
 
-## 1. Governance Principles
+## Governance Principles
 
 DIRECT governance is guided by the following principles:
 
@@ -26,24 +26,24 @@ DIRECT governance is guided by the following principles:
 - **Transparent** – Roles, decisions, and priorities are visible and understandable.
 - **Time-respectful** – Processes should minimise meetings and administrative overhead.
 
-## 2. Governance Model
+## Governance Model
 
 DIRECT governance has two components:
 
 - **Project Co-Leads**, who provide strategic stewardship and overall coherence
-- **Community-led Working Groups**, where most activity takes place and which are led by Working Group Leads
+- **Community-led Working Groups**, where most activity takes place and which are led by **Working Group Leads**
 
 The model is deliberately simple. Responsibility sits primarily with those doing the work, with the Co-Leads ensuring alignment, sustainability, and continuity.
 
 The Co-Leads are accountable to the community and operate in service of it.
 
-## 3. Project Co-Leads
+### Project Co-Leads
 
 DIRECT is guided by two Project Co-Leads who jointly steward the project’s direction, sustainability, and integrity.
 
 They hold equal responsibility and authority and work collaboratively in all aspects of leadership.
 
-### Responsibilities
+#### Responsibilities
 
 Together, the Co-Leads:
 
@@ -57,14 +57,14 @@ Together, the Co-Leads:
 
 Their role is to enable progress and remove obstacles, not to control day-to-day work.
 
-### Ways of Working
+#### Ways of Working
 
 - The Co-Leads operate as equal partners.
 - Decisions are made jointly wherever possible.
 - Disagreements are handled constructively and transparently.
 - Where significant decisions affect the wider project, community input will be sought.
 
-## 4. Working Groups
+### Working Groups
 
 Most work within DIRECT happens through community-led working groups.
 
@@ -75,7 +75,7 @@ Working groups:
 - Are self-organising and autonomous
 - May be time-bounded or ongoing
 
-### Expectations
+#### Expectations
 
 Working groups are expected to:
 
@@ -85,11 +85,24 @@ Working groups are expected to:
 
 They are trusted to organise their work in ways that suit their aims.
 
-## 5. Working Group Leads
+#### Current Working Groups
+
+- **Framework Working Group** - develops and maintains the skills and competencies framework.
+GitHub Repository: [https://github.com/direct-framework/digital-research-competencies-framework](https://github.com/direct-framework/digital-research-competencies-framework)
+- **WebApp Working Group** - develops and maintains the web application implementation of the framework.
+Website: [https://directframework.com](https://directframework.com)
+GitHub Repository: [https://github.com/direct-framework/direct-webapp](https://github.com/direct-framework/direct-webapp)
+- **Engagement and Adoption Working Group** - supports outreach, engagement, and adoption of DIRECT by:
+  - Raising awareness
+  - Engaging communities to identify use cases and gaps
+  - Supporting implementation and uptake
+  - Running events and workshops
+
+### Working Group Leads
 
 Working groups may have one or more leads. 
 
-## Responsibilities 
+#### Responsibilities 
 
 Working groups leads:
 
@@ -99,35 +112,18 @@ Working groups leads:
 
 Leads may rotate or leadership can be shared. There is no fixed minimum term.
 
-## 6. Current Working Groups
+## Current Governance Board Members
 
-### Framework Working Group
+Project co-leads: Dave Horsfall (April 2023 - present), Aleks Nenadic (February 2026 - present).
 
-Develops and maintains the skills and competencies framework.
+Framework Working Group Lead: Aleks Nenadic (April 2023 - present).
 
-- GitHub Repository:
-  [https://github.com/direct-framework/digital-research-competencies-framework](https://github.com/direct-framework/digital-research-competencies-framework)
+WebApp Working Group Lead: Adrian D'Alessandro (February 2026 - present).
 
-### WebApp Working Group
+Engagement and Adoption Working Group Lead: Phil Reed Nenadic (February 2026 - present).
 
-Develops and maintains the web application implementation of the framework.
 
-- Website:
-  [https://directframework.com](https://directframework.com)
-
-- GitHub Repository:
-  [https://github.com/direct-framework/direct-webapp](https://github.com/direct-framework/direct-webapp)
-
-### Engagement and Adoption Working Group
-
-Supports outreach, engagement, and adoption of DIRECT by:
-
-- Raising awareness
-- Engaging communities to identify use cases and gaps
-- Supporting implementation and uptake
-- Running events and workshops
-
-## 7. Decision-Making
+## Decision-Making
 
 Decisions are made as close as possible to the work.
 
@@ -143,7 +139,7 @@ DIRECT favours:
 
 If disagreement arises that cannot be resolved within a group, it may be escalated to the Co-Leads.
 
-## 8. Transparency and Communication
+## Transparency and Communication
 
 To maintain trust and openness:
 
@@ -168,7 +164,7 @@ To maintain trust and openness:
 - Email: [direct-framework@googlegroups.com](mailto:direct-framework@googlegroups.com)
 - Slack: `#direct-framework` in the RSE Community Slack (ukrse.slack.com)
 
-## 9. Review and Evolution
+## Review and Evolution
 
 This governance model is intentionally lightweight and adaptive.
 
