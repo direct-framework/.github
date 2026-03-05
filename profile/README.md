@@ -13,11 +13,11 @@ The project is divided into two technical sub-projects with distinct set of acti
  
 ## Code of Conduct
 
-See our [Code of Conduct](./CODE_OF_CONDUCT.md).
+See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Governance
 
-See our [governance model and process](./GOVERNANCE.md) and current memners of the governance board.
+See our [governance model and process](../GOVERNANCE.md) and current memners of the governance board.
 
 ## Contact
 
