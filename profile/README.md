@@ -60,6 +60,13 @@ digital professional roles (and not just RSEs) such as researchers, data special
 
 See our [governance model and process](../GOVERNANCE.md), [current members of the governance board](../GOVERNANCE.md#current-governance-board-members) and [meeting schedule](../GOVERNANCE.md#meetings).
 
+## Licence
+
+Unless otherwise specified, all material and content in this and the related project repositories is licensed as follows:
+
+- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
+- Documentation, data and other written material is licensed under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+
 ## Documents
 
 ### Current working documents
