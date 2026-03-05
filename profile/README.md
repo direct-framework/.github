@@ -62,8 +62,6 @@ See our [governance model and process](../GOVERNANCE.md), [current members of th
 
 ## Documents
 
-This page tracks the public documents that have been used for community discussions and development.
-
 ### Current working documents
 
 * [Internal Google drive folder](https://drive.google.com/drive/u/0/folders/15pzFo9Vmf1C-PsBfiPyC3ZQBCGB92ssC) with various documents, presentations, etc.
