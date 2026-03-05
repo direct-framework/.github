@@ -88,6 +88,7 @@ See [current and past project contributors](../CONTRIBUTORS.md).
 
 Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
 You can also open a new issue if your idea is not yet mentioned anywhere else.
+All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Contact
 
