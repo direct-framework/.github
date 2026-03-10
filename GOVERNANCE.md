@@ -112,7 +112,7 @@ Working groups leads:
 
 Leads may rotate or leadership can be shared. There is no fixed minimum term.
 
-## Current Governance Board Members
+## Current Governance Membership
 
 - **Project co-leads**: Dave Horsfall (April 2023 - present), Aleks Nenadic (February 2026 - present).
 - **Framework Working Group Lead**: Aleks Nenadic (April 2023 - present).
