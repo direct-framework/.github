@@ -5,11 +5,10 @@ Current project team (in alphabetical order by first name):
 - Adrian D'Alessandro
 - Aleksandra Nenadic
 - Aman Goel
-- Becky Osselton
 - Connor Aird
 - Dave Horsfall
+- Diego Alonso Álvarez
 - Emma Hogan
-- Gabriel Hanganu
 - Matt Craddock
 - Phil Reed
 - Sam Bland
@@ -17,9 +16,10 @@ Current project team (in alphabetical order by first name):
 
 Former project team members (in alphabetical order by first name):
 
+- Becky Osselton
 - Eli Chadwick
+- Gabriel Hanganu
 - Hannah Williams
-- Diego Alonso Álvarez
 - Matthew Bluteau
 
 CW25 hack day team working on the project (in alphabetical order by first name):
