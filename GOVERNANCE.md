@@ -120,7 +120,7 @@ Framework Working Group Lead: Aleks Nenadic (April 2023 - present).
 
 WebApp Working Group Lead: Adrian D'Alessandro (February 2026 - present).
 
-Engagement and Adoption Working Group Lead: Phil Reed Nenadic (February 2026 - present).
+Engagement and Adoption Working Group Lead: Phil Reed (February 2026 - present).
 
 
 ## Decision-Making
