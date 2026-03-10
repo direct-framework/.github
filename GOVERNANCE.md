@@ -114,13 +114,10 @@ Leads may rotate or leadership can be shared. There is no fixed minimum term.
 
 ## Current Governance Board Members
 
-Project co-leads: Dave Horsfall (April 2023 - present), Aleks Nenadic (February 2026 - present).
-
-Framework Working Group Lead: Aleks Nenadic (April 2023 - present).
-
-WebApp Working Group Lead: Adrian D'Alessandro (February 2026 - present).
-
-Engagement and Adoption Working Group Lead: Phil Reed (February 2026 - present).
+- **Project co-leads**: Dave Horsfall (April 2023 - present), Aleks Nenadic (February 2026 - present).
+- **Framework Working Group Lead**: Aleks Nenadic (April 2023 - present).
+- **WebApp Working Group Lead**: Adrian D'Alessandro (February 2026 - present).
+- **Engagement and Adoption Working Group Lead**: Phil Reed (February 2026 - present).
 
 
 ## Decision-Making
@@ -150,14 +147,10 @@ To maintain trust and openness:
 
 ### Meetings
 
-- Full project meeting:
-  Second Wednesday of each month, 11:00–11:55 GMT/BST
-
-- Framework Working Group:
-  Every two weeks, Tuesday 16:00–17:00 GMT/BST
-
-- WebApp Working Group:
-  Every two weeks, Thursday 14:00–14:50 GMT/BST
+- DIRECT project meetings: second Wednesday of each month, 11:00–11:55 GMT/BST
+- Framework Working Group meetings: every two weeks, Tuesday 16:00–17:00 GMT/BST
+- WebApp Working Group meetings: every two weeks, Thursday 14:00–14:50 GMT/BST
+- Engagement and Adoption Working Group meets on a per-need basis (typically in a lead up to an event) and also uses the DIRECT project meetings to engage the whole team 
 
 ### Contact
 
