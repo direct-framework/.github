@@ -155,7 +155,7 @@ To maintain trust and openness:
 ### Contact
 
 - Email: [direct-framework@googlegroups.com](mailto:direct-framework@googlegroups.com)
-- Slack: `#direct-framework` in the RSE Community Slack (ukrse.slack.com)
+- Slack: `#direct-framework` in the RSE Community Slack ([ukrse.slack.com](https://ukrse.slack.com/)
 
 ## Review and Evolution
 
