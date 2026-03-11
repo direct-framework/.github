@@ -69,6 +69,16 @@ Unless otherwise specified, all material and content in this and the related pro
 - Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
 - Documentation, data and other written material is licensed under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
 
+## Contributors
+
+See [current and past project contributors](../CONTRIBUTORS.md).
+
+## Contributing
+
+Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
+You can also open a new issue if your idea is not yet mentioned anywhere else.
+All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Documents
 
 ### Current working documents
@@ -81,16 +91,6 @@ Unless otherwise specified, all material and content in this and the related pro
    * [CW23 Hack day report](https://docs.google.com/document/d/1ApTf8RcB86-RXrCJfCUMWDt6kRWSM0wVzBsPMCyhC8g)
    * [CW23 Hack day presentation](https://docs.google.com/presentation/d/15RBtaJ4W5bUWV7aHrwV0wX7op7hewl3B-w7vj6wieHg/edit#slide=id.g1e2424db41c_2_0)
    * [CW23 working HackMD document](https://hackmd.io/LwyTCm2LRwahi7yP8M7Brg?both)
-
-## Contributors
-
-See [current and past project contributors](../CONTRIBUTORS.md).
-
-## Contributing
-
-Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
-You can also open a new issue if your idea is not yet mentioned anywhere else.
-All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Contact
 
