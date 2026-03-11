@@ -58,7 +58,9 @@ digital professional roles (and not just RSEs) such as researchers, data special
 
 ## Governance
 
-See our [governance model and process](../GOVERNANCE.md), [current governance membership](../GOVERNANCE.md#current-governance-membership) and [meeting schedule](../GOVERNANCE.md#meetings).
+- [Governance model](../GOVERNANCE.md)
+- [Current governance membership](../GOVERNANCE.md#current-governance-membership)
+- [Meeting schedule](../GOVERNANCE.md#meetings)
 
 ## Licence
 
