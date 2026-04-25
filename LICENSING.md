@@ -1,4 +1,4 @@
-# LICENSE
+# DIRECT Licensing
 
 The DIRECT project makes all of its content publicly available under open source licenses:
 
