@@ -7,7 +7,7 @@ This project aims to define a skills and competencies framework to help classify
 The project is divided into two technical sub-projects with distinct set of activities:
 
 - **DIRECT skills and competencies framework**
-   - [Browse skills and competencies](https://directframework.com/competencies)
+   - [Browse skills and competencies](https://directframework.com/framework/skills_and_competencies/)
    - [GitHub repository](https://github.com/direct-framework/digital-research-competencies-framework)
 - **DIRECT Web Application** - Django webapp to enable practical use of the framework, browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc..
    - [Website](https://directframework.com)
