@@ -15,10 +15,8 @@ DIRECT addresses this gap by offering an open, evolving competency framework, su
 The project is divided into two technical sub-projects with distinct set of activities:
 
 - [DIRECT skills and competencies framework schema and data definitions](https://github.com/direct-framework/digital-research-competencies-framework)
-- [DIRECT Web application](https://github.com/direct-framework/direct-webapp) - Django webapp to enable practical use of the framework, browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc. in a Web tool.
-
-[Use the skills and competencies framework in DIRECT Web tool](https://directframework.com).
-
+- [DIRECT Web application](https://github.com/direct-framework/direct-webapp) - Django webapp to enable practical use of the framework (the [Web tool](https://directframework.com)), browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc.
+  
 ## The Problem Space
 
 Digital research is now fundamental to almost all areas of research, from data-intensive science to computational humanities. Alongside this growth has been the emergence of specialist roles such as research software engineers, data managers, stewards and scientists, research and digital technologists, and other digital Research Technical Professionals.
