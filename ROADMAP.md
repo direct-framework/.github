@@ -1,5 +1,7 @@
 # Roadmap
 
+The current roadmap as envisaged at the start of 2026.
+
 ## Short-term (0–12 months)
 *Focus: consolidation and usability*
 
