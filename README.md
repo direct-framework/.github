@@ -8,7 +8,7 @@ DIRECT addresses this gap by offering an open, evolving competency framework, su
 
 ## Vision
 
-[Vision statement](./VISION.md)
+[Vision statement](./VISION.md).
 
 ## Guiding Principles
 
@@ -20,3 +20,7 @@ DIRECT is built around the following principles:
 * Focused on real-world research practice, capturing the full range of skills used
 * Designed to complement, not duplicate, existing frameworks
 * Sustainable, transparent, and extensible over time
+
+## Roadmap
+
+[Roadmap documents per year](./ROADMAP/README.md).
