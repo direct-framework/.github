@@ -68,11 +68,11 @@ See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Vision
 
-See our [vision statement](./VISION.md).
+See our [vision statement](../VISION.md).
 
 ## Roadmap
 
-See our [short and longer-term roadmaps](./ROADMAP/README.md).
+See our [short and longer-term roadmaps](../ROADMAP/README.md).
 
 ## Use Cases and Beneficiaries
 
@@ -138,7 +138,7 @@ TODO: Add link to CONTRIBUION GUIDELINES.
 
 ## History and Community Origins
 
-Read a more detailed [history of the project](./HISTORY.md) and how it evolved.
+Read a more detailed [history of the project](../HISTORY.md) and how it evolved.
 
 ## Documents
 
@@ -164,8 +164,7 @@ We also use #direct-framework channel under the RSE Community Slack (ukrse.slack
 The initial version of this project was created during the Software Sustainability Institute Collaborations Workshop
 2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE and dRTP community members during RSECon23, RSECon24 and CW25 and various other community engagement events and workshops.
 
-_This work is in part supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
-Digital Research Infrastructure Programme_.
+_This work is in part supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI Digital Research Infrastructure Programme_.
 
 
 
