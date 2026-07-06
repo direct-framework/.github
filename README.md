@@ -53,9 +53,31 @@ DIRECT supports a wide range of stakeholders.
 * Identify gaps in existing provision
 * Support targeted investment in digital skills
 
+## Governance and Sustainability
+
+DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
+
+Key principles include:
+Open contribution via public repositories and consultation
+Clear ownership of decisions and releases
+Lightweight governance that supports, rather than constrains, participation
+Long-term sustainability will depend on a combination of institutional support, grant funding, and community contribution. Developing a robust governance and funding model is a priority for the next phase of the project.
+Link to Governance document
+
+## Community Engagement and Call to Action
+
+DIRECT depends on the continued involvement of the digital research community.
+
+We welcome contributions from individuals, institutions, training providers, and funders, whether through framework development, use case testing, training alignment, or governance support.
+
+By working together, we can build a shared framework that recognises digital expertise, strengthens research communities, and supports the future of digital research.
+
+TODO: Add link to CONTRIBUION GUIDELINES.
 
 ## History and Community Origins
 
 TODO: Add link to history document.
+
+
 
 
