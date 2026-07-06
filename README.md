@@ -6,10 +6,6 @@ DIRECT, the Digital Research Competencies Framework, is a community-led initiati
 Digital research roles are increasingly central to research excellence, yet career pathways, training provision, and workforce planning remain fragmented. Existing skills frameworks often fail to reflect the realities of digital research work, particularly for research software engineers and the wider community of digital Research Technical Professionals (dRTPs).
 DIRECT addresses this gap by offering an open, evolving competency framework, supported by role profiles, mapped training resources, and an open-source web tool. This document sets out the vision, positioning, current status, and roadmap for DIRECT, providing clarity on where the project is heading and how the community can contribute to its next phase.
 
-## Vision
-
-See our [vision statement](./VISION.md).
-
 ## Guiding Principles
 
 DIRECT is built around the following principles:
@@ -21,9 +17,42 @@ DIRECT is built around the following principles:
 * Designed to complement, not duplicate, existing frameworks
 * Sustainable, transparent, and extensible over time
 
+## Vision
+
+See our [vision statement](./VISION.md).
+
 ## Roadmap
 
 See our [short and longer-term roadmaps](./ROADMAP/README.md).
+
+## Use Cases and Beneficiaries
+
+DIRECT supports a wide range of stakeholders.
+
+### Individuals
+
+* Reflect on current skills and experience
+* Identify strengths and development areas
+* Plan training and career progression
+
+### Managers and Team Leads
+
+* Support appraisals and development conversations
+* Identify skills gaps within teams
+* Plan recruitment and role development
+
+### Institutions
+
+* Develop consistent role profiles and career pathways
+* Inform workforce and training strategies
+* Support equality, diversity, and inclusion through transparent expectations
+
+### Training Providers and Funders
+
+* Align training provision with real-world needs
+* Identify gaps in existing provision
+* Support targeted investment in digital skills
+
 
 ## History and Community Origins
 
