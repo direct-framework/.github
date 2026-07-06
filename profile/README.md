@@ -106,10 +106,14 @@ DIRECT supports a wide range of stakeholders.
 * Identify gaps in existing provision
 * Support targeted investment in digital skills
 
-## Governance and Sustainability
+## Governance
 
 DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
-See our [detailed governance process](./GOVERNANCE.md).
+See our detailed governance process, including:
+
+- [Governance model](./GOVERNANCE.md).
+- [Current governance team](../GOVERNANCE.md#current-governance-membership)
+- [Meeting schedule](../GOVERNANCE.md#meetings)
 
 ## Community Engagement and Call to Action
 
@@ -139,7 +143,7 @@ TODO: Add link to history document.
 ## Governance
 
 - [Governance model](../GOVERNANCE.md)
-- [Current governance membership](../GOVERNANCE.md#current-governance-membership)
+- [Current governance team](../GOVERNANCE.md#current-governance-membership)
 - [Meeting schedule](../GOVERNANCE.md#meetings)
 
 ## Licence
