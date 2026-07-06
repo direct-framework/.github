@@ -55,15 +55,8 @@ DIRECT supports a wide range of stakeholders.
 
 ## Governance and Sustainability
 
-DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
-
-Key principles include:
-Open contribution via public repositories and consultation
-Clear ownership of decisions and releases
-Lightweight governance that supports, rather than constrains, participation
-Long-term sustainability will depend on a combination of institutional support, grant funding, and community contribution. Developing a robust governance and funding model is a priority for the next phase of the project.
-
-See our [governance process](./GOVERNANCE.md).
+DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes
+See our [full governance process](./GOVERNANCE.md).
 
 ## Community Engagement and Call to Action
 
