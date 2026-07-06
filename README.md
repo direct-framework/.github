@@ -24,3 +24,9 @@ DIRECT is built around the following principles:
 ## Roadmap
 
 See our [short and longer-term roadmaps](./ROADMAP/README.md).
+
+## History and Community Origins
+
+TODO: Add link to history document.
+
+
