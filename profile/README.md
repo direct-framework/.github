@@ -44,10 +44,6 @@ At its core, DIRECT consists of:
 * Reference role profiles illustrating how competencies combine in practice
 * Mappings to training and development resources
 * An open-source web application that enables interaction with the framework
-* Aman: community engagement? Bringing conversations together
-* Sara: potentially repetitive, and this should be earlier?
-* So perhaps drop this, and link to “usage” document
-* Define strategy for how these documents will be available. 
 
 DIRECT is intended to support reflection, planning, and development. It is not designed as a performance management or accreditation system, although it may inform those processes where appropriate.
 
