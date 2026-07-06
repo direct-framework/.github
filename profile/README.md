@@ -108,8 +108,8 @@ DIRECT supports a wide range of stakeholders.
 
 ## Governance and Sustainability
 
-DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes
-See our [full governance process](./GOVERNANCE.md).
+DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
+See our [detailed governance process](./GOVERNANCE.md).
 
 ## Community Engagement and Call to Action
 
