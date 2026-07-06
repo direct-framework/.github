@@ -62,7 +62,8 @@ Open contribution via public repositories and consultation
 Clear ownership of decisions and releases
 Lightweight governance that supports, rather than constrains, participation
 Long-term sustainability will depend on a combination of institutional support, grant funding, and community contribution. Developing a robust governance and funding model is a priority for the next phase of the project.
-Link to Governance document
+
+See our [governance process](./GOVERNANCE.md).
 
 ## Community Engagement and Call to Action
 
