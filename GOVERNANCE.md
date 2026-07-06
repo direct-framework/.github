@@ -19,12 +19,14 @@ This model is expected to evolve over time in response to experience, feedback, 
 
 DIRECT governance is guided by the following principles:
 
-- **Light-touch** – Governance should enable progress, not slow it down.
-- **Proportionate** – Structure should scale only as needed.
-- **Open and inclusive** – Participation and ideas are welcome from across the community.
-- **Community-led** – Most innovation and activity happens through working groups.
-- **Transparent** – Roles, decisions, and priorities are visible and understandable.
-- **Time-respectful** – Processes should minimise meetings and administrative overhead.
+- **Light-touch** – governance should enable progress, not slow it down.
+- **Open and inclusive** – open contribution via public repositories and consultation.
+Participation and ideas are welcome from across the community.
+- **Community-led** – most innovation and activity happens through working groups.
+- **Transparent** – roles, decisions, and priorities are clear, visible, understandable and accountable.
+- **Time-respectful** – processes should minimise meetings and administrative overhead.
+- **Lightweight & proportionate** – lightweight governance that supports, rather than constrains, participation.
+Structure should scale only as needed.
 
 ## Governance Model
 
