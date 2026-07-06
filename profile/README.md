@@ -107,7 +107,7 @@ DIRECT supports a wide range of stakeholders.
 DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
 See our detailed governance process, including:
 
-- [Governance model](./GOVERNANCE.md)
+- [Governance model](../GOVERNANCE.md)
 - [Current governance team](../GOVERNANCE.md#current-governance-membership)
 - [Meeting schedule](../GOVERNANCE.md#meetings)
 
@@ -134,7 +134,7 @@ Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any
 You can also open a new issue if your idea is not yet mentioned anywhere else.
 All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
-TODO: Add link to CONTRIBUION GUIDELINES.
+TODO: Create new file CONTRIBUTION GUIDELINES and add a link to it here.
 
 ## History and Community Origins
 
