@@ -111,7 +111,7 @@ DIRECT supports a wide range of stakeholders.
 DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
 See our detailed governance process, including:
 
-- [Governance model](./GOVERNANCE.md).
+- [Governance model](./GOVERNANCE.md)
 - [Current governance team](../GOVERNANCE.md#current-governance-membership)
 - [Meeting schedule](../GOVERNANCE.md#meetings)
 
