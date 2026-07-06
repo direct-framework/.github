@@ -115,37 +115,6 @@ See our detailed governance process, including:
 - [Current governance team](../GOVERNANCE.md#current-governance-membership)
 - [Meeting schedule](../GOVERNANCE.md#meetings)
 
-## Community Engagement and Call to Action
-
-DIRECT depends on the continued involvement of the digital research community.
-
-We welcome contributions from individuals, institutions, training providers, and funders, whether through framework development, use case testing, training alignment, or governance support.
-
-By working together, we can build a shared framework that recognises digital expertise, strengthens research communities, and supports the future of digital research.
-
-TODO: Add link to CONTRIBUION GUIDELINES.
-
-## History and Community Origins
-
-TODO: Add link to history document.
-
-
-
-
-
-
-
-
-
-
-
----
-## Governance
-
-- [Governance model](../GOVERNANCE.md)
-- [Current governance team](../GOVERNANCE.md#current-governance-membership)
-- [Meeting schedule](../GOVERNANCE.md#meetings)
-
 ## Licence
 
 Unless otherwise specified, all material and content in this and the related project repositories is licensed as follows:
@@ -159,9 +128,21 @@ See [current and past project contributors](../CONTRIBUTORS.md).
 
 ## Contributing
 
+DIRECT depends on the continued involvement of the digital research community.
+
+We welcome contributions from individuals, institutions, training providers, and funders, whether through framework development, use case testing, training alignment, or governance support.
+
+By working together, we can build a shared framework that recognises digital expertise, strengthens research communities, and supports the future of digital research.
+
 Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
 You can also open a new issue if your idea is not yet mentioned anywhere else.
 All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
+TODO: Add link to CONTRIBUION GUIDELINES.
+
+## History and Community Origins
+
+Read a more detailed [history of the project](./HISTORY.md) and how it evolved.
 
 ## Documents
 
@@ -187,5 +168,16 @@ We also use #direct-framework channel under the RSE Community Slack (ukrse.slack
 The initial version of this project was created during the Software Sustainability Institute Collaborations Workshop
 2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE and dRTP community members during RSECon23, RSECon24 and CW25 and various other community engagement events and workshops.
 
-_This work was supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
-Digital Research Infrastructure Programme_
+_This work is in part supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
+Digital Research Infrastructure Programme_.
+
+
+
+
+
+
+
+
+
+
+
