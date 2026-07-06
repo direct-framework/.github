@@ -8,7 +8,7 @@ DIRECT addresses this gap by offering an open, evolving competency framework, su
 
 ## Vision
 
-[Vision statement](./VISION.md).
+See our [vision statement](./VISION.md).
 
 ## Guiding Principles
 
@@ -23,4 +23,4 @@ DIRECT is built around the following principles:
 
 ## Roadmap
 
-[Roadmap documents per year](./ROADMAP/README.md).
+See our [short and longer-term roadmaps](./ROADMAP/README.md).
