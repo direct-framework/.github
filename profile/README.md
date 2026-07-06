@@ -103,5 +103,5 @@ We also use #direct-framework channel under the RSE Community Slack (ukrse.slack
 The initial version of this project was created during the Software Sustainability Institute Collaborations Workshop
 2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE and dRTP community members during RSECon23, RSECon24 and CW25 and various other community engagement events and workshops.
 
-_This work was supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
-Digital Research Infrastructure Programme_
+_Parts of this work are supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
+Digital Research Infrastructure Programme._
