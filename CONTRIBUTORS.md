@@ -2,7 +2,7 @@
 
 ### Current contributors
 
-Current conitrbutors - people who have been active in the past 12 months (in alphabetical order by first name):
+Current conitrbutors - people who have been active within the project in the past 12 months (in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
