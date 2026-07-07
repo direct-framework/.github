@@ -1,6 +1,6 @@
-## Contributors
+# Contributors
 
-### Current contributors
+## Current contributors
 
 Current conitrbutors - people who have been active within the project in the past 12 months (in alphabetical order by first name):
 
@@ -16,7 +16,7 @@ Current conitrbutors - people who have been active within the project in the pas
 - Sara Villa
 - Tamora James
 
-### Past contributors
+## Past contributors
 
 Past contributors (in alphabetical order by first name):
 
@@ -27,7 +27,7 @@ Past contributors (in alphabetical order by first name):
 - Matt Craddock
 - Matthew Bluteau
 
-### Contributors from specific events
+## Contributors from specific events
 
 CW25 hack day team working on the project (in alphabetical order by first name):
 
