@@ -25,7 +25,7 @@ The following people have been active members of the project during the past 12 
 
 ## Past team members
 
-previously been active members of the project team and made significant contributions to the project's development, but have not been active team members during the past 12 months (listed in alphabetical order by first name):
+The following people have previously been active members of the project team and made significant contributions to the project's development, but have not been active team members during the past 12 months (listed in alphabetical order by first name):
 
 - Becky Osselton
 - Connor Aird
