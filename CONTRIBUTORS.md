@@ -34,6 +34,16 @@ Past contributors - people who have not been active in the past 12 months but ca
 
 ## Wider Group of Contributors
 
+CW26 hack day team working on the project (in alphabetical order by first name):
+
+- Adrian D'Alessandro
+- Eli Chadwick
+- Eva Fernandez Amez
+- Laurent Gil
+- Kevin Rue
+- Max Gamill
+- Melissa Jade Mitchell
+
 CW25 hack day team working on the project (in alphabetical order by first name):
 
 - Adrian D’Alessandro
