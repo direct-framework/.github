@@ -32,7 +32,7 @@ Past contributors - people who have not been active in the past 12 months but ca
 - Matt Craddock
 - Matthew Bluteau
 
-## Contributors from specific events
+## Wider Group of Contributors
 
 CW25 hack day team working on the project (in alphabetical order by first name):
 
