@@ -1,6 +1,8 @@
 ## Contributors
 
-Current contributors - people who have been active in the past 12 months (in alphabetical order by first name):
+### Current contributors
+
+Current conitrbutors - people who have been active in the past 12 months (in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
@@ -14,6 +16,8 @@ Current contributors - people who have been active in the past 12 months (in alp
 - Sara Villa
 - Tamora James
 
+### Past contributors
+
 Past contributors (in alphabetical order by first name):
 
 - Becky Osselton
@@ -22,6 +26,8 @@ Past contributors (in alphabetical order by first name):
 - Hannah Williams
 - Matt Craddock
 - Matthew Bluteau
+
+### Contributors from specific events
 
 CW25 hack day team working on the project (in alphabetical order by first name):
 
