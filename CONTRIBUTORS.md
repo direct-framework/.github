@@ -44,6 +44,20 @@ CW26 hack day team working on the project (in alphabetical order by first name):
 - Max Gamill
 - Melissa Jade Mitchell
 
+CW26 workshop included breakout discussions led by (in alphabetical order by first name):
+
+- Adrian D’Alessandro
+- Aleksandra Nenadic
+- Aman Goel
+- Dave Horsfall
+- Emma Hogan
+- Jonathan Cooper
+- Kirsty Pringle
+- Loïc Lannelongue
+- Mike Simpson
+- Phil Reed
+- Samantha Ahern
+
 CW25 hack day team working on the project (in alphabetical order by first name):
 
 - Adrian D’Alessandro
