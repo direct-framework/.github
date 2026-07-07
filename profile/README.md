@@ -113,10 +113,8 @@ See our detailed governance process, including:
 
 ## Licence
 
-Unless otherwise specified, all material and content in this and the related project repositories is licensed as follows:
-
-- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
-- Documentation, data and other written material is licensed under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+The DIRECT project produces different types of content which are all licensed differently.
+For details, see our [LICENSE](./LICENSE.md) document.
 
 ## Contributors
 
