@@ -51,7 +51,7 @@ The framework is deliberately flexible. It can be used at individual, team, inst
 
 ### Position in the Digital Skills Ecosystem
 
-DIRECT sits within a complex ecosystem of skills frameworks, professional standards, and training initiatives spanning academia, research infrastructure, and professional bodies.
+DIRECT sits within a [complex ecosystem of skills frameworks](https://github.com/direct-framework/digital-research-competencies-framework#related-skills--competencies-frameworks), professional standards, and training initiatives spanning academia, research infrastructure, and professional bodies.
 
 Rather than replacing existing frameworks, DIRECT is designed to complement them by:
 
