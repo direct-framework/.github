@@ -154,6 +154,10 @@ The initial version of this project was created during the Software Sustainabili
 
 _This work is in part supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI Digital Research Infrastructure Programme_.
 
+## AI Disclosure
+
+We sometimes use AI tools to assist with our work, under the strict editorial control and factual verification of the human author.
+We are happy to discuss our use of AI technologies.
 
 
 
