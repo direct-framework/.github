@@ -1,8 +1,8 @@
 # Contributors
 
-Team members are contrubutors who come to various team and workgroup meatings and regularly contribute to dicussions and project work.
+Team members are contrubutors who come to various team and work group meetings and regularly contribute to dicussions and project work.
 
-Contributors are a wider group of people who contribute at various events and hackdays.
+Contributors are a wider group of people who contribute occasionally at various events, hackdays or discussions.
 
 ## Current team members
 
