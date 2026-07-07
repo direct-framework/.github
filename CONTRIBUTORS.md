@@ -1,8 +1,12 @@
 # Contributors
 
-## Current contributors
+Team members are contrubutors who come to various team and workgroup meatings and regularly contribute to dicussions and project work.
 
-Current conitrbutors - people who have been active within the project in the past 12 months (in alphabetical order by first name):
+Contributors are a wider group of people who contribute at various events and hackdays.
+
+## Current team members
+
+Current team members - people who have been active within the project in the past 12 months (in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
@@ -11,14 +15,15 @@ Current conitrbutors - people who have been active within the project in the pas
 - Diego Alonso Álvarez
 - Emma Hogan
 - Gabriel Hanganu
+- Jonathan Cooper
 - Phil Reed
 - Sam Bland
 - Sara Villa
 - Tamora James
 
-## Past contributors
+## Past team members
 
-Past contributors (in alphabetical order by first name):
+Past contributors - people who have not been active in the past 12 months but can reactivate at any point (in alphabetical order by first name):
 
 - Becky Osselton
 - Connor Aird
