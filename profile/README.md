@@ -1,73 +1,120 @@
 # DIgital REsearch CompeTencies (DIRECT) Project
 
-## About
+## Executive Summary
 
-This project aims to define a skills and competencies framework to help classify and describe technical and non-technical skills used in the different digital Research Technical Professional (dRTP) roles. 
+[DIRECT](https://directframework.com), the Digital Research Competencies Framework, is a community-led initiative that provides a shared language for the skills, competencies, and career pathways of digital research professionals. It is designed to support individuals, teams, institutions, and funders in recognising, developing, and sustaining the digital expertise that underpins modern research.
+Digital research roles are increasingly central to research excellence, yet career pathways, training provision, and workforce planning remain fragmented. Existing skills frameworks often fail to reflect the realities of digital research work, particularly for research software engineers and the wider community of digital Research Technical Professionals (dRTPs).
+DIRECT addresses this gap by offering an open, evolving competency framework, supported by role profiles, mapped training resources, and an open-source web tool.
+
+[Use the skills and competencies framework in DIRECT Web tool](https://directframework.com).
+
+[![Watch the video of project lead Dave Horsfall describing the DIRECT Framework, how it identifies skills and defines development pathways for anyone working in research software, serving as an important tool to help with career progression](https://github.com/direct-framework/digital-research-competencies-framework/blob/main/images/promo-video-screenshot.png?raw=true)](https://www.youtube.com/watch?v=NpQFhwqBgg4)
+
+## Project Structure
 
 The project is divided into two technical sub-projects with distinct set of activities:
 
-- **DIRECT skills and competencies framework**
-   - [Browse skills and competencies](https://directframework.com/framework/skills_and_competencies/)
-   - [GitHub repository](https://github.com/direct-framework/digital-research-competencies-framework)
-- **DIRECT Web Application** - Django webapp to enable practical use of the framework, browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc..
-   - [Website](https://directframework.com)
-   - [GitHub repository](https://github.com/direct-framework/direct-webapp)
+- [DIRECT skills and competencies framework schema and data definitions](https://github.com/direct-framework/digital-research-competencies-framework)
+- [DIRECT Web application](https://github.com/direct-framework/direct-webapp) - Django webapp to enable practical use of the framework (the [Web tool](https://directframework.com)), browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different dRTP roles, etc.
+  
+## The Problem Space
 
-[![Watch the video of project lead Dave Horsfall describing the DIRECT Framework, how it identifies skills and defines development pathways for anyone working in research software, serving as an important tool to help with career progression](https://github.com/direct-framework/digital-research-competencies-framework/blob/main/images/promo-video-screenshot.png?raw=true)](https://www.youtube.com/watch?v=NpQFhwqBgg4)
+Digital research is now fundamental to almost all areas of research, from data-intensive science to computational humanities. Alongside this growth has been the emergence of specialist roles such as research software engineers, data managers, stewards and scientists, research and digital technologists, and other digital Research Technical Professionals.
+
+Despite their importance, these roles often lack:
+
+* Shared language for skills and competencies
+* Alignment between training provision and role expectations
+* Existence within university and research institutions’ job structures 
+* Clear and consistent career pathways
+* Recognition within institutional and funding structures
+
+Existing skills and competency frameworks tend to be discipline-specific, academically focused, or designed for commercial engineering contexts. As a result, they often fail to capture the hybrid, collaborative, and evolving nature of digital research work. This creates challenges for individuals seeking progression, for managers supporting development, and for institutions planning strategically.
+
+DIRECT exists to address this structural gap.
+
+## How can DIRECT Help?
+
+DIRECT is a competency framework designed specifically for digital research contexts.
+
+At its core, DIRECT consists of:
+
+* A structured set of digital research competencies, organised into thematic areas
+* Scales that describe progression and depth of expertise
+* Reference role profiles illustrating how competencies combine in practice
+* Mappings to training and development resources
+* An open-source web application that enables interaction with the framework
+
+DIRECT is intended to support reflection, planning, and development. It is not designed as a performance management or accreditation system, although it may inform those processes where appropriate.
+
+The framework is deliberately flexible. It can be used at individual, team, institutional, or sector level, and is designed to evolve as digital research practices change.
+
+### Position in the Digital Skills Ecosystem
+
+DIRECT sits within a complex ecosystem of skills frameworks, professional standards, and training initiatives spanning academia, research infrastructure, and professional bodies.
+
+Rather than replacing existing frameworks, DIRECT is designed to complement them by:
+
+* Focusing specifically on digital research roles and practices
+* Bridging individual development and institutional strategy
+* Providing a community-owned, adaptable structure
+* Enabling mapping and interoperability with other frameworks
+
+DIRECT aligns with national and international priorities around digital skills, research sustainability, and workforce development. It provides a practical layer that connects high-level policy ambitions with day-to-day research practice.
 
 ## Code of Conduct
 
 See our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
-## History
+## Vision
 
-DIRECT project and its repositories were created from the work that originally happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.
+See our [vision statement](../VISION.md).
 
-The idea was to construct a resource on technical skills that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individual skill profiles as "competency wheels".
+## Roadmap
 
-![Screenshot of competency visualisations](../images/rse-forge-screenshot.png)
+See our [short and longer-term roadmaps](../ROADMAP/README.md).
 
-The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development. We have now extracted the work into its own separate [GitHub organisation](https://github.com/direct-framework).
+## Use Cases and Beneficiaries
 
-Note that, while we've focussed on RSEs during the early stages of development, this tool could be used for any roles that used digital skills for research (and we have now expanded the framework to reflect that). 
+DIRECT supports a wide range of stakeholders.
 
-The project comprised:
+### Individuals
 
-1. An RSE competency framework, outlining a structured **set of skills** that are useful when working as an RSE, with
-   examples of how these skills can be demonstrated at different **levels of experience**. Not all RSEs will or need to have
-   all skills at all levels.
-2. A curated set of training resources, linked to the skills and levels from the competency framework.
-3. A tool to visualise and compare different competency profiles.
+* Reflect on current skills and experience
+* Identify strengths and development areas
+* Plan training and career progression
 
-The project aimed to support the following uses:
+### Managers and Team Leads
 
-1. Recording and visualising your competency profile as an individual RSE.
-2. Comparing competency profiles across a group of RSEs (e.g. to show the commonalities and variety across RSEs doing
-   the same role at the same level at the same organisation, or comparing across organisations).
-3. Find high-quality training resources to improve skills in a particular competency.
-4. Define aspirational competency profiles, illustrate the gap to your current profile and highlight training resources
-   that could help bridge that gap.
+* Support appraisals and development conversations
+* Identify skills gaps within teams
+* Plan recruitment and role development
 
-The project won the 3rd prize at CW23 and we have carried on with the work on this project after the initial prototype. Since then, we have compared our 
-work with many [related skill frameworks](#related-skills-&-competencies-frameworks) to make sure they are aligned and skills are not missed.
+### Institutions
 
-We have also consulted the wider RSE community at RSECon24 about the skills they use, where loads of non-technical/professional skills emerged. 
+* Develop consistent role profiles and career pathways
+* Inform workforce and training strategies
+* Support equality, diversity, and inclusion through transparent expectations
 
-We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
-digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
+### Training Providers and Funders
+
+* Align training provision with real-world needs
+* Identify gaps in existing provision
+* Support targeted investment in digital skills
 
 ## Governance
 
+DIRECT is governed through open, community-led working groups with clear remits and transparent decision-making processes.
+See our detailed governance process, including:
+
 - [Governance model](../GOVERNANCE.md)
-- [Current governance membership](../GOVERNANCE.md#current-governance-membership)
+- [Current governance team](../GOVERNANCE.md#current-governance-membership)
 - [Meeting schedule](../GOVERNANCE.md#meetings)
 
 ## Licence
 
-Unless otherwise specified, all material and content in this and the related project repositories is licensed as follows:
-
-- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
-- Documentation, data and other written material is licensed under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+The DIRECT project produces different types of content which are all licensed differently.
+For details, see our [LICENSE](./LICENSE.md) document.
 
 ## Contributors
 
@@ -75,9 +122,11 @@ See [current and past project contributors](../CONTRIBUTORS.md).
 
 ## Contributing
 
-Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
-You can also open a new issue if your idea is not yet mentioned anywhere else.
-All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
+See the [contributing guidelines](./CONTRIBUTING.md).
+
+## History and Community Origins
+
+Read a more detailed [history of the project](../HISTORY.md) and how it evolved.
 
 ## Documents
 
@@ -103,5 +152,15 @@ We also use #direct-framework channel under the RSE Community Slack (ukrse.slack
 The initial version of this project was created during the Software Sustainability Institute Collaborations Workshop
 2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE and dRTP community members during RSECon23, RSECon24 and CW25 and various other community engagement events and workshops.
 
-_Parts of this work are supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI
-Digital Research Infrastructure Programme._
+_This work is in part supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI Digital Research Infrastructure Programme_.
+
+
+
+
+
+
+
+
+
+
+
