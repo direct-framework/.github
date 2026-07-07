@@ -122,17 +122,7 @@ See [current and past project contributors](../CONTRIBUTORS.md).
 
 ## Contributing
 
-DIRECT depends on the continued involvement of the digital research community.
-
-We welcome contributions from individuals, institutions, training providers, and funders, whether through framework development, use case testing, training alignment, or governance support.
-
-By working together, we can build a shared framework that recognises digital expertise, strengthens research communities, and supports the future of digital research.
-
-Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues in the relevant repository. 
-You can also open a new issue if your idea is not yet mentioned anywhere else.
-All contributors agree to abide by our [Code of Conduct](../CODE_OF_CONDUCT.md).
-
-TODO: Create new file CONTRIBUTION GUIDELINES and add a link to it here.
+See the [contributing guidelines](./CONTRIBUTING.md).
 
 ## History and Community Origins
 
