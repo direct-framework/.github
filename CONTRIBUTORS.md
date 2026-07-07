@@ -1,12 +1,14 @@
 # Contributors
 
-Team members are special group of contrubutors who come to various team and work group meetings and regularly contribute to dicussions and project work.
+Contributors include both core team members and members of the wider community who contribute in different ways.
 
-The rest of contributors contribute occasionally at various events, hackdays or discussions.
+Team members are a core group of contributors who regularly participate in team and working group meetings and make ongoing contributions to discussions, project activities, and the development of the project.
+
+Wider contributors contribute on a more occasional basis, for example by participating in events, hack days, workshops, discussions, or by contributing to specific tasks or initiatives.
 
 ## Current team members
 
-Current team members - people who have been active within the project in the past 12 months (in alphabetical order by first name):
+The following people have been active members of the project during the past 12 months (listed in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
@@ -23,7 +25,7 @@ Current team members - people who have been active within the project in the pas
 
 ## Past team members
 
-Past contributors - people who have not been active in the past 12 months but can reactivate at any point (in alphabetical order by first name):
+previously been active members of the project team and made significant contributions to the project's development, but have not been active team members during the past 12 months (listed in alphabetical order by first name):
 
 - Becky Osselton
 - Connor Aird
