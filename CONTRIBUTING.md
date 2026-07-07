@@ -41,10 +41,4 @@ introduce yourself and to meet some of our community members.
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://carpentries.org/help-wanted-issues/
-[lc-issues]: https://github.com/issues?q=user%3ALibraryCarpentry
-[swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
-[swc-lessons]: https://software-carpentry.org/lessons/
-[swc-site]: https://software-carpentry.org/
-[lc-site]: https://librarycarpentry.org/
-[template-doc]: https://carpentries.github.io/workbench/
+[issues]: https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue
