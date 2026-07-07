@@ -1,25 +1,26 @@
 ## Contributors
 
-Current project team (in alphabetical order by first name):
+Current contributors - people who have been active in the past 12 months (in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
 - Aman Goel
-- Connor Aird
 - Dave Horsfall
 - Diego Alonso Álvarez
 - Emma Hogan
-- Matt Craddock
+- Gabriel Hanganu
 - Phil Reed
 - Sam Bland
+- Sara Villa
 - Tamora James
 
-Former project team members (in alphabetical order by first name):
+Past contributors (in alphabetical order by first name):
 
 - Becky Osselton
+- Connor Aird
 - Eli Chadwick
-- Gabriel Hanganu
 - Hannah Williams
+- Matt Craddock
 - Matthew Bluteau
 
 CW25 hack day team working on the project (in alphabetical order by first name):
